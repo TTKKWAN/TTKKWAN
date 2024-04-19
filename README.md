@@ -9,4 +9,4 @@
 - 👯 쉽고, 간단하며 유지보수하기 좋아 누구든지 이해할 수 있는 코드가 좋은 코드라고 생각합니다.
 
   ### STACK
-- C, Python, JAVA, HTML, CSS, React, Flutter
+- C, Python, DART, JAVA, HTML, CSS
